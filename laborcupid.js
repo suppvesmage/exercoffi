@@ -1,0 +1,2 @@
+   someObject.dpi = 150;
+   
